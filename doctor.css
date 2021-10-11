@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: grey;
+    margin-top: 10px;
+}
+h1 {
+    font-size: 26px;
+    text-align: center;
+    color:white;
+}
+.rabbi {
+    background-color:green;
+    max-width: 100%;
+   margin: 0px auto;
+   padding: 20px;
+   border: 2px double red;
+}
+.rabbi:hover {
+    background-color:blue;
+}
+div.container{
+    margin: 0 auto;
+    box-sizing: border-box;
+   
+}
+div.rakib {
+    background-color:teal;
+    font-size: 130%;
+   box-sizing: border-box;
+   text-align:center;
+    width: 33%;
+    height: 170px;
+    border: 10px solid gray;
+    float:left;
+    padding-top: 50px;
+    border-radius: 30px;
+  
+
+}
+div.sakib {
+    background-color:mediumvioletred;
+    font-size: 130%;
+   box-sizing: border-box;
+   text-align:center;
+    width: 33%;
+    height: 170px;
+    border: 35px soli white;
+    float:left;
+  padding-top:50px;
+  border-radius: 30px;
+
+}
+.rakib:hover{
+    background-color:blue;
+    font-size: 170%;
+    color:white;
+}
+.sakib:hover{
+    background-color:red;
+    font-size:200%;
+    color:white;
+}
+.rasel {
+   padding: 40px;
+    background-color: gray;
+    text-align:center;
+    margin: 
+    5px;
+}
